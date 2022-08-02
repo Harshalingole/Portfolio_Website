@@ -41,15 +41,5 @@
     ]
   },
   "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
-  "main": "index.js",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Harshalingole/Portfolio_Website.git"
-  },
-  "author": "harshal gajanan ingole",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Harshalingole/Portfolio_Website/issues"
-  },
-  "homepage": "https://github.com/Harshalingole/Portfolio_Website#readme"
+  "main": "index.js"
 }

@@ -30,7 +30,7 @@ const Home = () => {
           <span>Harshal Ingole</span>
           <span>A full Web Stack Developer</span>
         </div>
-        <Link to="contact" smooth={true} spy={true}>
+        <Link to="Contact" smooth={true} spy={true}>
           <button className="button i-button">Hire me</button>
         </Link>
         {/* social icons */}
@@ -84,7 +84,7 @@ const Home = () => {
           className="floating-div"
         >
           {/* floatinDiv mein change hy dark mode ka */}
-          <FloatinDiv img={thumbup} text1="MERN" text2="Stack" />
+          <FloatinDiv img={thumbup} text1="MERN" text2="STACK" />
         </motion.div>
 
         <div className="blur" style={{ background: "rgb(238 210 255)" }}></div>

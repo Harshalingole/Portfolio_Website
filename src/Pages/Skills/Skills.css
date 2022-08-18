@@ -7,7 +7,7 @@
   margin-bottom: 8rem;
   flex-direction: column;
   /* scroll */
-  /* justify-items: flex-end;
+  /* justify-items: flex-end; 
   align-items: flex-start; */
 }
 .st-title > :nth-child(1) {

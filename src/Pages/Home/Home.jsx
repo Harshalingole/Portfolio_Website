@@ -2,7 +2,7 @@ import React, { useContext } from "react";
 import "./Home.css";
 import Vector1 from "../../img/Vector1.png";
 import Vector2 from "../../img/Vector2.png";
-import boy from "../../img/Harshal.png";
+import boy from "../../img/fullimg.png";
 import thumbup from "../../img/thumbup.png";
 import crown from "../../img/crown.png";
 import FloatinDiv from "../../Components/FloatingDiv/FloatingDiv";
@@ -28,7 +28,7 @@ const Home = () => {
           {/* yahan change hy darkmode ka */}
           <span style={{ color: darkMode ? "white" : "" }}>Hy! I Am</span>
           <span>Harshal Ingole</span>
-          <span>A full Web Stack Developer</span>
+          <span>Full Stack Web Developer</span>
         </div>
         <Link to="Contact" smooth={true} spy={true}>
           <button className="button i-button">Hire me</button>

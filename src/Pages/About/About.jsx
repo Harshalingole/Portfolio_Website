@@ -33,10 +33,13 @@ const About = () => {
         <span>services</span>
         <span></span>
         <span className="sub-title">
-          Dynamic & ambitious web developer specialized in MERN stack (MongoDB
-          Express React Node).
+          Driven by a constant desire to learn, create and make an impact in the world of web development.
+          <br></br>
+          Specialized in MERN stack. 
+          <br></br>
+          (MongoDB Express React Node).
           <br />
-          Base In India
+          Base In Nagpur, India
         </span>
         <a
           href={Resume}

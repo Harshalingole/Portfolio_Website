@@ -74,11 +74,11 @@
 }
 .boy {
   transform: scale(0.9);
-  top: -10rem;
+  top: -9rem;
   left: 15%;
 }
 .i-right > :nth-child(3) {
-  transform: scale(0.9);
+  transform: scale(0.95);
   max-height: max-content;
 }
 /* .i-right > :nth-child(4) { */

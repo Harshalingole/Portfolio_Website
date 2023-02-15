@@ -14,10 +14,11 @@
 .m-wraper > * {
   justify-self: flex-start;
   padding: 2rem;
-  max-width: 90%;
+  /* max-width: 50%; */
 }
 /* Left Side */
 .m-left {
+  max-width: 45%;
   justify-self: start;
   display: flex;
   flex-flow: column wrap;
@@ -99,10 +100,10 @@
 .btn-close > img {
   transform: scale(0.6);
 }
-.btn-close:hover::after {
+/* .btn-close:hover::after {
   content: "Close";
   font-size: 0.8rem;
-}
+} */
 /* Responsive */
 @media screen and (max-width: 480px) {
   .m-wraper {

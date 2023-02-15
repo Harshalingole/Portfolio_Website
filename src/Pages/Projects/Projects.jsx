@@ -31,7 +31,7 @@ const Projects = () => {
             {ProjectsInfo.map((el, ind) => {
               return (
                 <ProjectCard
-                  img={el["img"]}
+                  img={el["thumbnail"]}
                   onClickImg={onClickImg}
                   ind={ind}
                   key={ind}
@@ -51,7 +51,7 @@ const Projects = () => {
                   liveDemo={el["liveDemo"][imgId]}
                   stack={el["stack"][imgId]}
                   date={el["date"][imgId]}
-                  img={el["img"][imgId]}
+                  img={el["thumbnail"][imgId]}
                   ind={ind}
                 />
               );
